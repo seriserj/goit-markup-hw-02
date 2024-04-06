@@ -135,7 +135,6 @@ text-align: center;
     line-height: 16px;
     color: var(--black);
 }
-
 /* Portfolio style*/
 .portfolio-nav ul {
     list-style: none;
@@ -154,5 +153,5 @@ text-align: center;
 
 .portfolio-nav a:hover{
     color: var(--white);
-    background-color: var(--blue);
+    background-color: var(--blue); 
 }
