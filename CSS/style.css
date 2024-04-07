@@ -135,23 +135,19 @@ text-align: center;
     line-height: 16px;
     color: var(--black);
 }
-/* Portfolio style*/
-.portfolio-nav ul {
-    list-style: none;
+.footer__addres a:hover {
+    color: var(--blue);
 }
-.portfolio-nav a {
-        text-decoration: none;
-        font-family: var(--primary-font);
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 16px;
-        color: var(--light-black);
-        border-radius: 4px;
-        cursor: pointer;
-        background-color: var(--light-grey);
+/* Portfolio style*/
+.portfolio__nav {
+    font-family: var(--primary-font);
+    font-weight: 500;
+    font-size: 16px;
+    border: var(--white);
+    border-radius: 4px;
 }
 
-.portfolio-nav a:hover{
-    color: var(--white);
-    background-color: var(--blue); 
+.portfolio__nav:hover {
+color: var(--white);
+background-color: var(--blue);
 }
