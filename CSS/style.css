@@ -121,8 +121,23 @@ text-align: center;
     font-size: 36px;
     line-height: 16px;
     color: var(--black);
-
 }
+.team-section {
+    background-color: var(--light-grey);
+}
+.h6 {
+    font-family: var(--primary-font);
+    font-size: 16px;
+    font-weight: 500;
+}
+.team {
+    font-family: var(--primary-font);
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--light-black);
+}
+
+
 /* Footer section style*/
 .footer__addres ul {
     list-style: none;
@@ -139,12 +154,16 @@ text-align: center;
     color: var(--blue);
 }
 /* Portfolio style*/
+.portfolio {
+    text-align: center;
+}
 .portfolio__nav {
     font-family: var(--primary-font);
     font-weight: 500;
     font-size: 16px;
     border: var(--white);
     border-radius: 4px;
+    
 }
 
 .portfolio__nav:hover {
