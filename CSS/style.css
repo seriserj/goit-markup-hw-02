@@ -22,11 +22,11 @@ body {
 }
 .p__logo {
     text-decoration: none;
-        font-family: var(--secondary-font);
-        font-weight: 700;
-        font-size: 26px;
-        line-height: 16px;
-        color: var(--black);
+    font-family: var(--secondary-font);
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 16px;
+    color: var(--black);
 }
 
 .span__logo {
